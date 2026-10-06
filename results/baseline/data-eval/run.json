@@ -2,10 +2,10 @@
   "task": "data-eval",
   "condition": "baseline",
   "role": "eval",
-  "error": "APIStatusError: Error code: 402 - {'error': {'message': \"This request requires more credits, or fewer max_tokens. You requested up to 16384 tokens, but can only afford 16254. To increase, visit https://openrouter.ai/workspaces/default/keys/df945b76c4c6ff2a1a31d64eef113762a6cc5518a477c7439153cb4868affdaf and adjust the key's total limit\", 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.', 'provider_name': None}}, 'user_id': 'user_3KKSDxscRKmTvkox8BC6ybR5DHO'}",
-  "timestamp": "2026-10-06T17:00:04.498911+00:00",
+  "error": "GoogleAPIError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "timestamp": "2026-10-06T17:22:19.814736+00:00",
   "skills_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "seconds": 0.4,
+  "seconds": 36.3,
   "tokens": {
     "input": 0,
     "output": 0,

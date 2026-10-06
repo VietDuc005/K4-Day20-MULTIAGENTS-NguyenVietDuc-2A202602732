@@ -84,7 +84,7 @@ Bảng so sánh xuất từ `report/table.md` (`python -m lab.compare`):
 | logs-eval | 0/10 | 0/10 | 0/10 |
 | **Mean score - learning tasks** | 0.07 | 0.03 | 0.00 |
 | **Mean score - evaluation tasks** | 0.00 | 0.00 | 0.00 |
-| **Mean tokens per run** | 95,911 | 107,142 | 0 |
+| **Mean tokens per run** | 107,141 | 107,142 | 0 |
 | **Runs that read a skill** | 0/6 | 0/6 | 0/6 |
 
 Thống kê phân rã check kỹ thuật và check quy ước (`python scripts/check_breakdown.py`):
