@@ -1,5 +1,5 @@
 ### Human
-The test suite of the `inventory` package in the folder `workspace/` is failing.
+The test suite of the `bookings` package in the folder `workspace/` is failing.
 
 Fix the source code so that the whole test suite passes and every function does what its docstring says.
 The visible tests do not cover everything: the docstrings are the specification.
